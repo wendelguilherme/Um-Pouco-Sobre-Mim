@@ -3,7 +3,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
-
 }
 
 body{
@@ -33,18 +32,24 @@ h1{
 }
 
 h2{
-    text-align: center;
+    padding-right: 1em;
+    padding-left: 1em;
     color: #14423c;
     text-shadow: 1px 1px 0px #439186;
     font-weight: bold;
 }
 
 div{
-    text-align: center;
+    padding-left: 2em;
+    padding-right: 1em;
+}
+
+p{
+    text-indent: 1.3em;
 }
 
 a{
-    
+    padding-left: 1em;
     text-decoration: none;
     color: #97252d;
     font-weight: bold;
