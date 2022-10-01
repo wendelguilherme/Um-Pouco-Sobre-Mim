@@ -20,6 +20,7 @@ main{
 }
 
 h1{
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #571519;
     text-shadow: 5px 5px 5px #000000;
@@ -29,16 +30,21 @@ h1{
     box-shadow: 5px 5px 2px #103c50;
     padding: 10px;
     margin: auto;
-    text-align: center;
 }
 
 h2{
+    text-align: center;
     color: #14423c;
     text-shadow: 1px 1px 0px #439186;
     font-weight: bold;
 }
 
+div{
+    text-align: center;
+}
+
 a{
+    
     text-decoration: none;
     color: #97252d;
     font-weight: bold;
