@@ -6,9 +6,19 @@ body{
 
 h1{
     background-color: #002333;
+    text-shadow: 5px 5px 5px #000000;
     color: white;
     width: 550px;
     text-align: center;
+}
+
+h2{
+    color: #002333;
+    text-shadow: 1px 1px 3px #000000;
+}
+div{
+    text-align: justify;
+    te
 }
 a{
     text-decoration: none;
