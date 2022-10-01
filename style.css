@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+body{
+    background-color: #DEEFE7;
+}
+
+h1{
+    background-color: #002333;
+    color: white;
+    width: 550px;
+    text-align: center;
+}
 a{
     text-decoration: none;
     color: red;
