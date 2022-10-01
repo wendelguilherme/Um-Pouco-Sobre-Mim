@@ -14,7 +14,7 @@ main{
     background-color: #DEEFE7;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #002333;
-    width: 600px;
+    width: 630px;
     padding: 10px;
     margin: auto;
 }
@@ -23,7 +23,11 @@ h1{
     background-color: #002333;
     text-shadow: 5px 5px 5px #000000;
     color: white;
-    width: 600px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px black;
+    padding: 10px;
+    margin: auto;
     text-align: center;
 }
 
