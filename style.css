@@ -2,6 +2,7 @@
 
 *{
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
 
 body{
@@ -28,10 +29,6 @@ h1{
 h2{
     color: #002333;
     text-shadow: 1px 1px 3px #afafaf;
-}
-div{
-    text-align: justify;
-    te
 }
 
 a{
