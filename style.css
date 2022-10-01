@@ -7,6 +7,7 @@
 
 body{
     background-color: #191A1C;
+    margin-top: 2em;
 }
 
 main{
@@ -51,11 +52,8 @@ p{
     text-indent: 1.3em;
 }
 
-li{
-    max-width: fit-content;
-}
 a{
-    max-width: fit-content;
+    
     padding-left: 0.2em;
     text-decoration: none;
     color: #97252d;
