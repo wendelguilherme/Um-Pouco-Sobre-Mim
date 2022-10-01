@@ -8,6 +8,7 @@
 body{
     background-color: #191A1C;
     margin-top: 4em;
+
 }
 
 main{
@@ -15,10 +16,9 @@ main{
     background-color: #DEEFE7;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #7c75a3;
-    width: 630px;
-    padding: 10px;
+    padding: 15px;
     margin: auto;
-    
+    width: 500px;
 }
 
 h1{
